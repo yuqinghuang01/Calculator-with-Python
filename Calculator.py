@@ -53,3 +53,6 @@ class app(Frame):
 
 if __name__ == '__main__':
     app().mainloop()
+    
+# Reference:
+# https://www.youtube.com/watch?v=J-mvqlkHOHY
